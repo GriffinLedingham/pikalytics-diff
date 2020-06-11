@@ -23,8 +23,22 @@ Generate `out.json`:
 
 ```json
 [
-  {"pokemonId":752,"pokemonForm":0,"diff":-8,"newRank":"135","oldRank":"127","diffNorm":-0.05925925925925926},
-  {"pokemonId":475,"pokemonForm":0,"diff":-6,"newRank":"102","oldRank":"96","diffNorm":-0.058823529411764705},
+  {
+    "pokemonId":752,
+    "pokemonForm":0,
+    "diff":-8,
+    "newRank":"135",
+    "oldRank":"127",
+    "diffNorm":-0.05925925925925926
+  },
+  {
+    "pokemonId":475,
+    "pokemonForm":0,
+    "diff":-6,
+    "newRank":"102",
+    "oldRank":"96",
+    "diffNorm":-0.058823529411764705
+  },
   ...
 ]
 ```
